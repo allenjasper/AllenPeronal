@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <h1>About Me</h1>
-      <p>I’m a [your year-level] student studying [your course/major].</p>
+      <p>I’m a 3rdYear student studying BSIT.</p>
       <p>My hobbies include coding, gaming, and exploring new technologies.</p>
     </div>
   );

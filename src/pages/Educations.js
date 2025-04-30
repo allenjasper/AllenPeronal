@@ -5,8 +5,8 @@ function Education() {
     <div>
       <h1>Education</h1>
       <ul>
-        <li><strong>ABC High School</strong> (2016–2020)</li>
-        <li><strong>XYZ University</strong> – BS in Information Technology (2020–Present)</li>
+        <li><strong>Pulo National High School</strong> (2016–2020)</li>
+        <li><strong>University of Cabuyao</strong> – BS in Information Technology (2020–Present)</li>
       </ul>
     </div>
   );
